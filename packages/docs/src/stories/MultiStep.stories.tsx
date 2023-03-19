@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@ds/react'
+import { Box, MultiStep, MultiStepProps } from '@admmello-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

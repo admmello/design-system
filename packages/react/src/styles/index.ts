@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ds/tokens'
+} from '@admmello-ds/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

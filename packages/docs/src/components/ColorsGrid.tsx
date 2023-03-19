@@ -1,4 +1,4 @@
-import { colors } from '@ds/tokens'
+import { colors } from '@admmello-ds/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

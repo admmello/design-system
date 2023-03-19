@@ -1,4 +1,4 @@
-import { Box, BoxProps, Text } from '@ds/react'
+import { Box, BoxProps, Text } from '@admmello-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

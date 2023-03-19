@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@ds/react'
+import { Text, TextProps } from '@admmello-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

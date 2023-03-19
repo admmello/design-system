@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@ds/react'
+import { Box, Text, TextArea, TextAreaProps } from '@admmello-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

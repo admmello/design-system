@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@ds/react'
+import { Avatar, AvatarProps } from '@admmello-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@ds/react'
+import { Heading, HeadingProps } from '@admmello-ds/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {
