@@ -28,10 +28,10 @@
     "vite": "^3.2.4"
   },
   "dependencies": {
-    "@ds/eslint-config": "*",
-    "@ds/react": "*",
-    "@ds/tokens": "*",
-    "@ds/ts-config": "*",
+    "@admmello-ds/eslint-config": "*",
+    "@admmello-ds/react": "*",
+    "@admmello-ds/tokens": "*",
+    "@admmello-ds/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

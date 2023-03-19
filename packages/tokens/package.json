@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ds/ts-config": "*",
-    "@ds/eslint-config": "*",
+    "@admmello-ds/ts-config": "*",
+    "@admmello-ds/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.3"
   }
