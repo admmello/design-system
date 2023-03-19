@@ -1,5 +1,5 @@
 {
-  "name": "@ds/eslint-config",
+  "name": "@admmello-ds/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",
