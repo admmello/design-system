@@ -1,0 +1,2 @@
+import{A as t}from"./index.2469e682.js";import"./index.2b11543c.js";import"./iframe.644db3c1.js";import"./index.ca3fc4c7.js";import"./jsx-runtime.2f59e959.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/admmello.png",alt:"Alex Mello"},argTypes:{src:{control:{type:"text"}}}},e={},m={args:{src:void 0}},p=["Primary","WithFallback"];export{e as Primary,m as WithFallback,p as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories.b28c095d.js.map
